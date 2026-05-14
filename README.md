@@ -12,6 +12,23 @@ The idea was to understand what it actually takes to go from raw, messy source d
 
 ---
 
+## Live Dashboard
+
+Interactive business analytics dashboard built on top of this pipeline — explore revenue trends, product efficiency, and customer segmentation across 37 months of transaction data.
+
+[View Live Dashboard](https://datawithindu.github.io/adventureworks-data-warehouse/)
+
+### Business Overview
+![Business Overview Dashboard](dashboard-overview.png)
+
+### Product Performance
+![Product Performance Dashboard](dashboard-products.png)
+
+### Customer Insights
+![Customer Insights Dashboard](dashboard-customers.png)
+
+---
+
 ## About the Data
 
 AdventureWorks is Microsoft's official sample database. I used the Data Warehouse version, which simulates a bicycle company selling bikes, accessories, and clothing across multiple countries.
